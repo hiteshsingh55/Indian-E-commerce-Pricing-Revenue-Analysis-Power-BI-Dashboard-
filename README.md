@@ -22,33 +22,36 @@ It contains information related to:
 -Sales events
 
 Dashboard Structure
+
 1. Executive Sales & Pricing Overview
 
 This dashboard provides a high-level view of overall business performance.
 
 Key insights:
 
-30.6K total orders
+-30.6K total orders
 
-₹2.17B total revenue
+-₹2.17B total revenue
 
-970K units sold
+-970K units sold
 
-Average selling price: ₹2.42K
+-Average selling price: ₹2.42K
 
-Average discount: 38%
+-Average discount: 38%
 
-Analysis includes:
+-Analysis includes:
 
-Revenue trend over time
+-Revenue trend over time
 
-Revenue distribution by category
+-Revenue distribution by category
 
-Revenue comparison by region
+-Revenue comparison by region
 
-Brand type performance across categories
+-Brand type performance across categories
 
-Relationship between discount percentage and product demand
+-Relationship between discount percentage and product demand
+
+
 
 2. Customer Behavior & Demand Drivers
 
@@ -56,44 +59,46 @@ This dashboard focuses on understanding who is driving demand and what market fa
 
 Key insights:
 
-Average customer age: 35.57 years
+-Average customer age: 35.57 years
 
-Average price reduction: ₹1.48K
+-Average price reduction: ₹1.48K
 
-Average units sold per order: 31.71
+-Average units sold per order: 31.71
 
-Younger customers (18–34) contribute the largest share of revenue
+-Younger customers (18–34) contribute the largest share of revenue
 
-Analysis includes:
 
-Revenue distribution by customer age groups
+> Analysis includes:
 
-Demand variation across competition intensity levels
+-Revenue distribution by customer age groups
 
-Impact of inventory pressure on discount strategy
+-Demand variation across competition intensity levels
 
-Pricing behavior using Base Price vs Final Price analysis
+-Impact of inventory pressure on discount strategy
 
-Tools & Skills Used
+-Pricing behavior using Base Price vs Final Price analysis
 
-Power BI
+>> Tools & Skills Used
 
-DAX (Data Analysis Expressions)
+-Power BI
 
-Data modeling
+-DAX (Data Analysis Expressions)
 
-Business performance analysis
+-Data modeling
 
-Dashboard design & visualization
+-Business performance analysis
+
+-Dashboard design & visualization
+
 
 Key Business Insights
 
-Younger customer segments (18–34) contribute the highest revenue.
+-Younger customer segments (18–34) contribute the highest revenue.
 
-Moderate competition intensity shows the highest demand levels.
+-Moderate competition intensity shows the highest demand levels.
 
-High inventory pressure results in deeper discount strategies.
+-High inventory pressure results in deeper discount strategies.
 
-Premium categories generate the largest share of revenue.
+-Premium categories generate the largest share of revenue.
 
-Discounting plays a significant role in driving category-level demand.
+-Discounting plays a significant role in driving category-level demand.
