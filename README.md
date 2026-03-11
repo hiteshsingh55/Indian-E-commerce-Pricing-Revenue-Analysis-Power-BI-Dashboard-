@@ -1,0 +1,2 @@
+# Indian-E-commerce-Pricing-Revenue-Analysis-Power-BI-Dashboard-
+This project presents an interactive Power BI dashboard analyzing an Indian e-commerce dataset to understand sales performance, pricing strategies, and customer demand drivers.  The goal of this project is to explore how discounting, competition, inventory pressure, and customer demographics influence revenue and purchasing behavior.
